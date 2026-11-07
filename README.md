@@ -1,3 +1,3 @@
-# CSS Advanced - Techium
+# HTML Advanced - Techium
 
-This project focuses on advanced CSS concepts, including custom properties (variables), typography styling, smooth scrolling behavior, and proper organization of a CSS stylesheet for the Techium website.
+This project is part of the Software Engineering curriculum at Holberton School.
